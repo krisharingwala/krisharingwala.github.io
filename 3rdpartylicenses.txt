@@ -144,10 +144,6 @@ MIT
 MIT
 MIT
 
-@angular/router@5.2.11
-MIT
-MIT
-
 @angular/platform-browser-dynamic@5.2.11
 MIT
 MIT
